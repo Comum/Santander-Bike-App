@@ -3,6 +3,11 @@ Santader Bike APP
 
 Objective: Create a Santader bike app that uses it's API and uses electron.
 
+When cloning repo to another machine
+------------------------------------
+
+* `npm install`
+
 External Documentation
 ----------------------
 
